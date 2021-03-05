@@ -1,4 +1,0 @@
-#Mon Nov 09 17:43:06 CET 2020
-base.0=E\:\\Semestr_7\\AplikacjeMobilne\\Lab_5\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
