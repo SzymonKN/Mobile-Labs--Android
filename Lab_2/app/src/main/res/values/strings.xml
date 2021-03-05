@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="myName">Szymon Nowak</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \n\nNullam congue volutpat efficitur. Phasellus
+
+        \nfaucibus molestie dapibus.
+
+        \n\nNulla id nunc mauris. Aliquam porttitor mi sem, eget iaculis erat sagittis eu.
+
+        \nCras quis viverra dui.
+
+        \n\nDonec volutpat massa condimentum magna porttitor, tristique blandit nunc imperdiet.
+
+        \nNunc sollicitudin erat nec egestas blandit. Integer fermentum lacus sit amet laoreet mattis. Sed luctus risus est, eu pellentesque est vulputate sit amet. Aliquam porttitor, est vitae convallis aliquam, orci tellus sollicitudin nibh, in iaculis enim felis in mauris. Nullam et enim hendrerit nibh fermentum eleifend. Vestibulum mollis hendrerit tortor, in placerat justo posuere feugiat. Curabitur dui ante, tempor nec pharetra at, imperdiet quis ipsum. Nulla vitae molestie mauris, vel porta metus.
+
+
+        \n\n\n
+        Nullam condimentum diam ut turpis hendrerit pretium. Nulla euismod tristique malesuada. Suspendisse a imperdiet purus. Cras augue massa, hendrerit vel feugiat eu, cursus posuere ex. Aliquam facilisis nec quam at gravida. Suspendisse potenti. Vivamus eu feugiat nunc. Praesent et augue lorem. Sed congue volutpat est, ut imperdiet diam commodo at. Donec finibus, tellus ultricies ultrices maximus, nulla lorem gravida turpis, ac imperdiet neque magna nec mi. Cras vel lacinia justo. Etiam elementum tempus quam sed viverra. Duis eleifend risus quis ante convallis scelerisque. Quisque hendrerit tempor turpis nec fermentum. Cras erat metus, interdum eu feugiat eget, rhoncus sed velit. Morbi ut libero sit amet nisi accumsan tincidunt nec at elit.
+        \n
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
